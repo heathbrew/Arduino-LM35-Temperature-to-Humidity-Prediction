@@ -1,9 +1,3 @@
-Below is an example README structure you could use for a new GitHub repository showcasing an Arduino project where you use an LM35 sensor to read temperature and then (for demonstration) predict humidity on the Arduino itself—displaying results on the Serial Monitor.
-
-You can adapt the text as needed for your specific requirements, code, and hardware setup.
-
----
-
 # Arduino LM35 Temperature-to-Humidity Prediction
 
 This project demonstrates using an LM35 temperature sensor and a deployed machine learning model on an Arduino to **predict humidity** based solely on sensed temperature readings. The Arduino then outputs the predictions to the Serial Monitor.
