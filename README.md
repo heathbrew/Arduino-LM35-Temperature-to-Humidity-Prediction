@@ -167,6 +167,3 @@ Distributed under the MIT License. See [`LICENSE`](LICENSE) for more information
 
 ---
 
-**Good luck with your Arduino + LM35 humidity-prediction project!** 
-
-Feel free to adapt this README to fit your personal style, add more visuals (e.g., pictures of your setup), or expand sections like **Model Explanation** if you have more complex processes.
